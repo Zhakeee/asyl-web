@@ -1,0 +1,106 @@
+.yade{
+    color:green;
+}
+.zhurek{
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: #FF9494;
+
+    border-radius: 100px 100px 100px 0px;
+}
+.men{
+    padding-top: 100px;
+}
+.citata{
+    border-radius: 0px 20px 20px 20px;
+    background-color:#3F3F3F;
+    width: 893px;
+    height: 155px;
+    
+}
+.cuchti{
+    padding-top:10px;
+    color:#FFFFFF;
+
+}
+.citati{
+    text-align: center;
+}
+.bexumno{
+    color: #A9F0FF;
+    font-weight: 400;
+
+}
+.altynym{
+    position: relative;
+    width: 480px;
+    height: 930px;
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content: center;
+    left:162px;
+    margin-top:50px;
+    border-radius: 25px;
+}
+#altyn {
+    font-size: 35px;
+    padding-left:110px;
+}
+.alt{
+    padding-top: 25px;
+    
+
+}
+.A-text{
+    font-size:25px;
+}
+.text{
+    padding-top:30px;
+}
+.english{
+    position: relative;
+    width: 649px;
+    height: 207px;
+    display: flex;
+    justify-content: center;
+    top:52px;
+    left:101px;
+    text-align: center;
+
+}
+.erte{
+    padding-left:31px;
+}
+.ertegi{
+    width:903px;
+    font-size:30px;
+    height: 792px;
+    padding-left:31px;
+}
+.batirma1{
+margin-top: 49px;
+margin-left: 31px;
+width: 215px;
+height: 60px;
+background-color: #00C2FF;
+color: #FFFFFF;
+border-radius: 6px;
+}
+.batirma2{
+margin-left: 31px;
+width: 329px;
+height: 60px;
+background-color: #EA6329;
+color: #FFFFFF;
+border-radius: 6px;
+}
+.b1{
+    padding-left: 45px;
+    padding-top:15px;
+
+}
+.b2{
+    padding-left: 85px;
+    padding-top: 15px;
+}
